@@ -1,0 +1,2 @@
+# SDN-based-IaaS-Hypervisor-Overlay-solution
+Implemented SDN based solution to provide on demand Infrastructure as a service for multi tenant cloud environment(VPC) using VXLAN and GRE overlay tunneling. Provided features like dynamic configuration, addition, deletion, migration of network and containers based on tenant requirement across cloud environment. Automated infrastructure creation, control plane and data plane management using python and ansible scripts.
